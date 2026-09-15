@@ -1,3 +1,4 @@
+> **Keywords:** LFI, php, XAMPP, Log Poisoning
 ## Información general
 
 - **Dificultad**: Very Easy
